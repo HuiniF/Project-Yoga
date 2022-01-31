@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    background-color: #E5E5E5;
+}
+
+.img-yoga {
+    display: block;
+    margin: 195px auto 122px auto;
+}
+
+input {
+    display: block;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border-radius: 10px;
+    border: none;
+    margin: 0 auto;
+}
+
+input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.inp-password {
+    margin-top: 21px;
+}
+
+.forg-password {
+    display: block;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+    text-align: right;
+    margin: 35px 37px 38px;
+    text-decoration: none;
+}
+
+button {
+    display: block;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    width: 133px;
+    height: 46px;
+    margin: 0 auto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.link-signup {
+    text-decoration: none;
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+    text-align: center;
+    margin-top: 21px;
+    margin-bottom: 62px;
+}
+
+strong {
+    color: #323232;
+}
+
+.or-paragraph {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+
+.div-links {
+    text-align: center;
+    margin: 20px auto 80px auto;
+}
+
+.link-dot {
+    margin: 0 18px 0 18px;
+    text-decoration: none;
+}
